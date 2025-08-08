@@ -48,6 +48,14 @@ Both projects involve **data preprocessing**, **feature extraction**, and **mode
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Sentiment-Analysis-and-Email-Classification-NLP.git
+   git clone https://github.com/Mallikarjun-B-Patil/Sentiment-Analysis-and-Email-Classification-NLP.git
    cd Sentiment-Analysis-and-Email-Classification-NLP
+
+---
+
+## 🙋‍♂️ Author
+
+- **MALLIKARJUN**  
+  Data Science
+  [GitHub](https://github.com/Mallikarjun-B-Patil) | [LinkedIn](https://www.linkedin.com/in/mallikarjunpatil4472/)
 
