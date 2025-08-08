@@ -52,7 +52,7 @@ Both projects involve **data preprocessing**, **feature extraction**, and **mode
 
 ## 🙋‍♂️ Author
 
-- **MALLIKARJUN**  
+- **MALLIKARJUN PATIL**  
   Data Science
   [GitHub](https://github.com/Mallikarjun-B-Patil) | [LinkedIn](https://www.linkedin.com/in/mallikarjunpatil4472/)
 
