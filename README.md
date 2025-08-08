@@ -9,9 +9,6 @@ Both projects involve **data preprocessing**, **feature extraction**, and **mode
 
 ---
 
-
----
-
 ## 🛠 Technologies Used
 - **Programming Language:** Python
 - **Libraries & Frameworks:**
